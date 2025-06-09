@@ -2,6 +2,7 @@
 #include <vector>
 #include <limits>
 #include <iomanip>
+#include <cmath> 
 using namespace std;
 
 typedef pair<int, double> Aresta; // (destino, peso)
